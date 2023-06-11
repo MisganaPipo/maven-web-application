@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://192.168.12.116:8181/pipo/repository/paypal-release/</url>
+	      <url>http://192.168.12.116:8181/pipo/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.12.116:8181/pipo/repository/paypal-release/</url>
+	      <url>http://192.168.12.116:8181/pipo/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
